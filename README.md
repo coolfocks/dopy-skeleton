@@ -18,3 +18,5 @@ Pak ho spustíme
     docker run -it --rm --name my-running-app my-python-app
 
 Úpravy v requirements.txt požadují rebuild
+
+Místo *my-python-app* si jméno můžeš zvolit jj
